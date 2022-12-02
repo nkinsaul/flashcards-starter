@@ -24,7 +24,12 @@ describe('Game', function() {
         expect(newGame).to.be.an.instanceOf(Game);
     });
 
-    it('should add new cards to a deck', function() {
-        const newGame = new Game()
-    })
-})
+    it('should create an instance of round', function() {
+        const newGame = new Game();
+
+        newGame.start();
+
+        expect(newGame.currentRound).to.be.an.instanceOf(Round);
+    });
+
+});
