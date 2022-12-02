@@ -16,6 +16,6 @@ This app utilizes a command line interface that creates a set a flashcards.  The
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
-![IdeaBox SS](https://user-images.githubusercontent.com/67208858/200420479-a7c3cd6c-da16-4ff5-8f36-1e14df3d3411.jpg)
+![app gif](https://media.giphy.com/media/m7zhxiIAiRCzGaDJsu/giphy.gif)
 
 
